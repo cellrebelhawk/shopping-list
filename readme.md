@@ -2,3 +2,7 @@
 - Milk
 - Cheese
 - Carrots
+- Corn
+- Bread
+- Flour
+- Cookies
